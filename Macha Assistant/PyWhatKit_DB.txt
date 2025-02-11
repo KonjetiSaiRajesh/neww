@@ -1,0 +1,25 @@
+Date: 10/2/2025
+Time: 23:54
+Phone Number: +918309214791
+Message: Hello! This is an automated message using Python.
+--------------------
+Date: 10/2/2025
+Time: 23:56
+Phone Number: +918309214791
+Message: Hello! This is an automated message using Python.
+--------------------
+Date: 10/2/2025
+Time: 23:58
+Phone Number: +919100890608
+Message: Hello! This is an automated message using Python. Hi this is demo message of my personal assistant project MACHA!!!!!!!
+--------------------
+Date: 11/2/2025
+Time: 0:3
+Phone Number: +919182255413
+Message: Hello! This is an automated message using Python. Hi this is demo message of my personal assistant project MACHA!!!!!!!
+--------------------
+Date: 11/2/2025
+Time: 0:11
+Phone Number: +919182255413
+Message: Hello! This is an automated message using Python. Hi this is demo message of my personal assistant project MACHA!!!!!!!
+--------------------
